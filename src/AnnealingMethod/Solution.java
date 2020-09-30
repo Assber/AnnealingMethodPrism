@@ -1,15 +1,12 @@
 package AnnealingMethod;
 
-
 public class Solution {
 
-    //   private Double r;
     private Double x1;
     private Double x2;
     private Double z1;
     private Double z2;
     private Double p;
-    //  private Double h;
     private Double m;
     private Double wСalculated;
     private Double wTheoretical;

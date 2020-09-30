@@ -1,6 +1,5 @@
 package AnnealingMethod;
 
-
 //import static AnnealingMethod.AnnealingMethod.x1ProvidedValue;
 import java.util.ArrayList;
 import java.util.Date;
